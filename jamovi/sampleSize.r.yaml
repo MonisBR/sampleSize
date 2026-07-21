@@ -1,0 +1,9 @@
+name: sampleSize
+title: Sample Size Results
+jrs: '1.1'
+
+items:
+
+  - name: text
+    title: Resultado
+    type: Html
