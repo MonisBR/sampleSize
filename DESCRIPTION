@@ -4,7 +4,7 @@ Title: Sample Size Module for jamovi
 Version: 0.0.1
 Author: Monica Ballesta & Isabel M. Timón
 Maintainer: Monica Ballesta <monica.ballesta@um.es>
-Description: Calculate sample sizes for estimation. Independent samples
+Description: Calculate sample sizes for estimation. Independent samples. Infinite populations.
 License: GPL (>= 2)
 Encoding: UTF-8
 LazyData: true
