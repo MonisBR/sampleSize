@@ -11,7 +11,7 @@ date: '2025-01-01'
 type: R
 description: >-
   Sample size calculator for studies involving means and proportions, including
-  one-sample and independent-sample designs.
+  one-sample and independent-sample designs. Infinite populations.
 analyses:
   - title: Sample Size Calculator
     name: sampleSize
